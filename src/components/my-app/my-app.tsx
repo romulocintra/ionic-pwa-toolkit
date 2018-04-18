@@ -1,4 +1,4 @@
-import '@ionic/core';
+import {} from '@ionic/core';
 import { Component, Prop, Listen } from '@stencil/core';
 
 @Component({
